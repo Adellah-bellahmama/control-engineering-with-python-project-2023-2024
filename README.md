@@ -14,7 +14,7 @@ Your team: group number 6
   
   - Student 3: EL OUKI Sara  SaraELOUKI
 
-  - Student 4: LMAIHRI Hasna hasnalammaihri
+  - Student 4: LAMMAIHRI Hasna hasnalammaihri
 ## Getting Started
 
   0. **:speech_balloon: Join the chat room (Discord).**
